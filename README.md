@@ -17,5 +17,5 @@ To start frontend:-
 <li>step-2) npm start</li></p>
 
 
-<h2>ReadMe.txt for pesto</h2>
+<h4>ReadMe.txt for pesto Tech</h4>
 
