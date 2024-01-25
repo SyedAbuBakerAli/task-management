@@ -1,4 +1,4 @@
-
+Tech Stack -> ExpressJs, ReactJs , MongoDB and Cloudinary
 
 for registration user ->  profile picture added at that time of registration 
 so change cloudinary config with your cloudinary account 
